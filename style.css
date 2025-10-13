@@ -133,7 +133,6 @@ h4 {
     font-size: 1.1em;
     color: var(--text-secondary);
     margin-top: 25px;
-    font-style: italic;
 }
 
 ul, ol, dl {
@@ -194,7 +193,7 @@ dl dd {
 }
 
 footer {
-    text-align: left;
+    text-align: center;
     margin-top: 50px;
     padding-top: 20px;
     border-top: 1px solid var(--accent-teal);
